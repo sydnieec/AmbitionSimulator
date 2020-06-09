@@ -1,5 +1,5 @@
 # AmbitionSimulator
-A game developed with Unity Game Engine that teaches players how to develop their budgeting, investment, and money management skills as a method to promote financial literacy.
+A game developed as a team with Unity Game Engine that teaches players how to develop their budgeting, investment, and money management skills as a method to promote financial literacy.
 
 The demo for Ambition Simulator can be found [here.](https://sydnieec.github.io/AmbitionSimulator/)
 
